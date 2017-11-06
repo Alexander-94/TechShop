@@ -1,0 +1,8 @@
+com\techShop\service\PhoneServiceImpl.class
+com\techShop\entity\Phone.class
+com\techShop\entity\PhoneStatus.class
+com\techShop\Application.class
+com\techShop\DAO\PhoneRepository.class
+com\techShop\controller\PhoneController.class
+com\techShop\entity\PhoneMaterial.class
+com\techShop\service\PhoneService.class
